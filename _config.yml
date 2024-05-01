@@ -1,1 +1,11 @@
+# Site settings
+title: My Space (To be Scrapped off)
+author:
+  name: Atri Ghosh
+  email: 1atrighosh@gmail.com
+description: "Atri Ghosh personal website."
 
+# Build settings
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme 
