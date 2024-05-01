@@ -6,6 +6,6 @@ author:
 description: "Atri Ghosh personal website."
 
 # Build settings
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/jekyll/minima
 plugins:
 - jekyll-remote-theme 
