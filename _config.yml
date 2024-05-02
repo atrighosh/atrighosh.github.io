@@ -3,8 +3,14 @@ title: My Space (To be Scrapped off)
 author:
   name: Atri Ghosh
   email: 1atrighosh@gmail.com
-description: "Atri Ghosh personal website."
+description: &description "Atri Ghosh personal website."
 
+locale                   : "en-US"
+title_separator          : "-"
+name                     : &name "Atri Ghosh"
+url                      : https://atrighosh.github.io
+baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
+repository               : "atrighosh/atrighosh.github.io"
 # Build settings
 remote_theme: pages-themes/jekyll/minima
 plugins:
