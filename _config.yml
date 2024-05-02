@@ -8,4 +8,11 @@ description: "Atri Ghosh personal website."
 # Build settings
 remote_theme: pages-themes/jekyll/minima
 plugins:
-- jekyll-remote-theme 
+- jekyll-remote-theme
+
+minima:
+  skin: dark
+  
+header_pages:
+  - about.md
+  - portfolio.md
