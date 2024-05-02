@@ -15,6 +15,9 @@ plugins:
 
 minima:
   skin: dark
+  social_links:
+    - { platform: github,  user_url: "https://github.com/atrighosh" }
+    - { platform: twitter, user_url: "https://twitter.com/1atrizx" }
   
 header_pages:
   - about.md
