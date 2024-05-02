@@ -6,7 +6,7 @@ author:
 description: &description "Atri Ghosh personal website."
 
 locale                   : "en-US"
-title_separator          : "-"
+#title_separator          : "-"
 name                     : &name "Atri Ghosh"
 url                      : https://atrighosh.github.io
 baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
