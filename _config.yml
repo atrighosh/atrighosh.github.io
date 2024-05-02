@@ -1,9 +1,12 @@
 # Site settings
 title: My Space (To be Scrapped off)
+description: "Atri Ghosh personal website."
+url: https://atrighosh.github.io
+baseurl: "/about"
+repository: "atrighosh/atrighosh.github.io"
 author:
   name: Atri Ghosh
   email: 1atrighosh@gmail.com
-description: "Atri Ghosh personal website."
 
 # Build settings
 remote_theme: pages-themes/jekyll/minima
