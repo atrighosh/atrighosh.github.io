@@ -12,10 +12,12 @@ I did my master’s thesis at BRaIN lab, IIT Gandhinagar under the supervision o
 
 I have also worked as a *Wissenschaftlicher Mitarbeiter* at Charité Universitätsmedizin Berlin in the lab of Dr. Livia de Hoz setting up Neuropixels recording for auditory neuroscience experiments. I also analyzed neural spiking data for statistical learning in the brain.
 
+Details "about" your project:
 
-The About page is a common convention found on websites.
-It is your opportunity to let us know all the details "about" your project:
-
-- focus and topic area
-- people involved
-- code and projects used
+### Domains I have worked on:
+- Auditory Neuroscience
+- Music Cognition
+- Decision-making
+- Image processing and classification
+- Process Simulation
+  
