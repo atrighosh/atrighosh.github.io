@@ -1,7 +1,7 @@
 # Site settings
 title: My Space (To be Scrapped off)
 description: "Atri Ghosh personal website."
-url: https://atrighosh.github.io
+#url: https://atrighosh.github.io
 baseurl: "/about"
 repository: "atrighosh/atrighosh.github.io"
 author:
