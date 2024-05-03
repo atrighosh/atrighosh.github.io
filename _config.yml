@@ -2,7 +2,7 @@
 title: My Space (To be Scrapped off)
 description: "Atri Ghosh personal website."
 #url: https://atrighosh.github.io
-#baseurl: "/about"
+baseurl: "/about"
 #repository: "atrighosh/atrighosh.github.io"
 author:
   name: Atri Ghosh
