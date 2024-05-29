@@ -27,3 +27,4 @@ minima:
 header_pages:
   - about.md
   - portfolio.md
+  - collections.md
