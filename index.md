@@ -1,12 +1,9 @@
 ---
-layout: home 
+layout: home
+permalink: /index.html
 ---
 
 Welcome to my (new) space!
----
-layout: default
-permalink: /404.html
----
 
 <h1 class="center">
 Hi! Atri here.
